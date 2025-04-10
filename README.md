@@ -79,5 +79,5 @@ services:
 
 > **Nota académica:** Este proyecto cumple con los requisitos de la actividad 8 de la materia Arquitecturas Distribuidas UVM, demostrando competencia en diseño de sistemas escalables.
 
-**📅 Fecha de entrega:** 14/04/2025
+**📅 Fecha de entrega:** 21/04/2025
 **🖥️ Repositorio:** [github.com/AnuarOrozco/patient-management]([https://github.com/usuario/proyecto](https://github.com/AnuarOrozco/patient-management))
